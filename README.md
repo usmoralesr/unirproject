@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AGUADATA — visor de calidad del agua
 
 Ejemplo académico de una aplicación web para consultar y visualizar parámetros de calidad del agua de cuerpos continentales lénticos de México.
